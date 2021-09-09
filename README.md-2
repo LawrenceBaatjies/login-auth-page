@@ -1,0 +1,5 @@
+Prerequisites
+You will need a development environment running Node.js; this tutorial was tested on Node.js version 10.22.0 and npm version 6.14.6. To install this on macOS or Ubuntu 18.04, follow the steps in How to Install Node.js and Create a Local Development Environment on macOS or the Installing Using a PPA section of How To Install Node.js on Ubuntu 18.04.
+A React development environment set up with Create React App, with the non-essential boilerplate removed. To set this up, follow Step 1 — Creating an Empty Project of the How To Manage State on React Class Components tutorial. This tutorial will use auth-tutorial as the project name.
+You will be fetching data from APIs using React. You can learn about working with APIs in How To Call Web APIs with the useEffect Hook in React.
+You will also need a basic knowledge of JavaScript, HTML, and CSS, which you can find in our How To Build a Website With HTML series, How To Style HTML with CSS, and in How To Code in JavaScript.
